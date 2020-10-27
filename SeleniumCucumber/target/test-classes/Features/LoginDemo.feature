@@ -1,4 +1,4 @@
-Feature: Login Functionality
+Feature: Login Functionality test
 
 Scenario Outline: Check the login functionality with valid credentials
 Given browser is open
